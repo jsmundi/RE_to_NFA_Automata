@@ -1,0 +1,12 @@
+ab|
+aE|
+ab&
+a*
+ab|*
+a*b|
+ab|*b&
+ab&a*&ab|&b&
+ab|*a&b&a*&*ab|&ab|&
+ab&a*&ab|&*b&
+ab&a*&ab|&*b&*
+ab&a*&ab|&*b&*ab|*&b&
